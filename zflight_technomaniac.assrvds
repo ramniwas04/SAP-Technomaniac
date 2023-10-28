@@ -1,0 +1,5 @@
+@EndUserText.label: 'Flight Service'
+define service Zflight_technomaniac {
+  expose ZI_Connection_Tech_r;
+  expose ZI_Flight_TECH_R;
+}
